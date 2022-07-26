@@ -76,6 +76,20 @@ input.onGesture(Gesture.Shake, function () {
         # # . # .
         . . # . .
         `)
+    basic.showLeds(`
+        . . . # .
+        . # . . #
+        # . # # .
+        . # . # #
+        . . # . .
+        `)
+    basic.showLeds(`
+        . # . . .
+        # . . # .
+        . # # . #
+        # # . # .
+        . . # . .
+        `)
 })
 input.onGesture(Gesture.ScreenUp, function () {
     basic.showLeds(`

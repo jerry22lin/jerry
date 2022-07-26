@@ -70,7 +70,19 @@
         . # # . # 
         # # . # . 
         . . # . .
-        `</field></block></next></block></statement></block><block type="pxt-on-start" id="EW#slcu!|4ioU?`-8dw8" x="0" y="0"></block><block type="device_forever" id="|$64vEX~g:n1}z~i@@?S" x="213" y="3"></block><block type="device_button_event" id="4=YH[(1JLN}e*]5Lj`{)" x="481" y="-2"><field name="NAME">Button.A</field></block><block type="device_button_event" id="{l]P3;|.;XprlDlqt1-%" x="691" y="-5"><field name="NAME">Button.B</field></block><block type="device_button_event" id="QGaXc~,*8*_y`#WHB8B/" x="919" y="-4"><field name="NAME">Button.AB</field></block><block type="device_print_message" id="`6*DRG7XT]zaD^Q+02hH" disabled="true" x="1" y="159"><value name="text"><shadow type="text" id="FBo+cbOSUY-5SpSF?w@r" disabled="true"><field name="TEXT">Jerry</field></shadow></value></block><block type="device_show_leds" id="D3r]68kger,d*GlvVL.s" disabled="true" x="220" y="152"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id=",%-t2jK1a+iGhl+A4x{r"><field name="LEDS">`
+        . . . # . 
+        . # . . # 
+        # . # # . 
+        . # . # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="o`r|us,MbW_qBFE5(mP4"><field name="LEDS">`
+        . # . . . 
+        # . . # . 
+        . # # . # 
+        # # . # . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="EW#slcu!|4ioU?`-8dw8" x="0" y="0"></block><block type="device_forever" id="|$64vEX~g:n1}z~i@@?S" x="213" y="3"></block><block type="device_button_event" id="4=YH[(1JLN}e*]5Lj`{)" x="481" y="-2"><field name="NAME">Button.A</field></block><block type="device_button_event" id="{l]P3;|.;XprlDlqt1-%" x="691" y="-5"><field name="NAME">Button.B</field></block><block type="device_button_event" id="QGaXc~,*8*_y`#WHB8B/" x="919" y="-4"><field name="NAME">Button.AB</field></block><block type="device_print_message" id="`6*DRG7XT]zaD^Q+02hH" disabled="true" x="1" y="159"><value name="text"><shadow type="text" id="FBo+cbOSUY-5SpSF?w@r" disabled="true"><field name="TEXT">Jerry</field></shadow></value></block><block type="device_show_leds" id="D3r]68kger,d*GlvVL.s" disabled="true" x="220" y="152"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . . 
